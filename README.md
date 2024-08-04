@@ -14,4 +14,7 @@ Combining a few ideas;
   - can get a cool networking stack
 * Cloud hosting pays kind of decent. Something comparable to a $3/month t2.nano is like $30
   - with a super efficient OS, efficient programming language, efficient networking stack and server, can make low cost low power compute as an investment
+ 
+* More fleshed out; use encryption to protect OS source and some processes. Look into understanding some distributed ledger algorithms maybe?
+  - check out https://github.com/openfheorg/openfhe-development/tree/main/src/pke/examples for algorithm examples
   - 
