@@ -4,7 +4,7 @@ Some wild ideas running through my head
 Combining a few ideas; 
 
 * Modern computer programs are really slow. Too much abstraction, languages and frameworks are based on vibes and hype
-* C is the best language for low level programming, however has a lot of floaws. It is inherently single threaded, a bad design. Doesn't take advantage of vector instructions.
+* C is the best language for low level programming, however has a lot of flaws. It is inherently single threaded, a bad design. Doesn't take advantage of vector instructions.
   - Look at CUDA; C-like language that has great low level support for parallel programming. Gives programmer a lot of control
   - Look at new C-like language; compare to CUDA, zig, Rust(?)
   - Only support RISCV(?) maybe ARM(?)
