@@ -48,7 +48,7 @@ In this conversation, we explored the feasibility of building a decentralized, w
   - **Directional**: Log-periodic antennas for focused communication.
 
 - **Amplifiers**:
-  - Use wideband RF amplifiers to boost signals up to legal limits.
+  - Use wideband RF amplifiers to boost signals up to legal limits, sample that works well with hackrf one: [amplifier](https://www.ebay.com/itm/405268115359?_trksid=p2332490.c101224.m-1&itmprp=cksum%3A4052681153597642b4b35b5a4f8387f0f31842eacb5f%7Cenc%3AAQAJAAABIFBRV3XPO4vjSjt41baQ6JJepvcRBSDR4z1drD8BzA6QgL4ueEp%252B3AJpsZMXAJz7IRjeeLd17GJCDzpY663fIUSE3W8LVXXOSa3k2xQA2Z3cu4mVsi8o7myphLf6btOjmytXWY8zsZ7Nah7GRQvQPu%252BYlQhcMHIZQFRj5YurJ0iunYKMTEHApuzPkJoffPeM9Ow6VlwXhWHOiEgOa6ViWM6ZRoLiy9nM8F%252BFiMwujRVrElDoQWkGZcxkM%252BQsI8ULWY4%252Blh2Spnr9R7QE7uF3R2oI1HnY432IHSUxSVbTnXtcr2rSBDCchqDgqGcvOJW68ahZRKLZkF66FZJEFbWU6QQtW8Zup2xSml1lbvgUEFWUqltgVciB6n%252FJsFgVliwGjw%253D%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JA183GMG147QX39QVFPBYG95)
 
 ### **Computing Hardware**
 
